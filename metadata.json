@@ -1,0 +1,6 @@
+{
+  "name": "Sitaron Ka Lifafa",
+  "description": "An animated wedding invitation for Arjun & Kavya with a starfield and interactive envelope opening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
